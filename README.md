@@ -38,3 +38,4 @@ root                    (project root folder)
 ## Authors
 ---
 * # TODO: Add your names and emails here
+Jared Ellis jaredee@byui.edu
