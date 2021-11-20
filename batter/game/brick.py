@@ -3,6 +3,13 @@ from game.point import Point
 from game import constants
 
 class Brick(Actor):
+    """A code template for the brick actor. The responsibility of 
+    this class of objects is to create an actor that is specifically a brick.
+    
+    Stereotype:
+        actor
+
+    """
     def __init__(self):
         super().__init__()
         self._text = ""
